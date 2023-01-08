@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Deep Saliency
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: EFRI BRAID: Using Proto-Object Based Saliency Inspired by Cortical Local Circuits to Limit the Hypothesis Space for Deep Learning Models.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
