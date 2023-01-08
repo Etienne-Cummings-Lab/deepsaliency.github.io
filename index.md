@@ -8,7 +8,7 @@ The object of this project is to use the biologically plausible [proto-object sa
 
 <!-- <a href="url", style>link text</a> -->
 
-<p style="text-align: center;"> <a href="./another-page.html">[See the Team]</a> </p>
+<p style="text-align: center;"> <a href="./team.html">[See the Team]</a> </p>
 
 
 <!-- 
