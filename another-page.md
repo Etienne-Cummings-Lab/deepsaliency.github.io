@@ -2,7 +2,16 @@
 layout: default
 ---
 
-## Welcome to another page
+## Team
+
+Ralph Etienne-Cummings (PI)
+Andreas Andreou
+Ernst Neibur
+Stefan Mihalas
+
+Akwasi Akwaboah
+Martin Lohmann
+
 
 _yay_
 
