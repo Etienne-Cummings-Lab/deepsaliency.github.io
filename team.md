@@ -14,9 +14,9 @@ Ernst Niebur (Co-PI, Johns Hopkins University)
 
 Stefan Mihalas (Co-PI, The Allen Institute)
 
-Akwasi Akwaboah (PhD Student, Johns Hopkins University)
+Martin Lohmann (Post-Doc, Allen Institute)
 
-Martin Lohmann (Allen Institute)
+Akwasi Akwaboah (PhD Student, Johns Hopkins University)
 
 
 [back](./)
