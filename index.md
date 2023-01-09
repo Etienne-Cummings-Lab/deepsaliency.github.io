@@ -10,7 +10,7 @@ The object of this project is to use the biologically plausible [proto-object sa
 
 <p style="text-align: center;"> <a href="./team.html">[See the Team]</a> </p>
 
-
+<p style="text-align: center;"> More Content coming soon!</p>
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
