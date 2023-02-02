@@ -46,9 +46,15 @@ In the Computational Neuroscience Laboratory, Ernst and his team construct quant
 
 Stefan Mihalas joined the Allen Institute in 2011 from Johns Hopkins University, where he was a postdoctoral fellow in neuroscience and subsequently an associate research scientist. As a computational neuroscientist, Mihalas has worked on models of both molecular and systems neuroscience including nervous system development, synaptic plasticity, minimalistic spiking neuron models, self-organized criticality, visual attention and figure ground segregation. His current research interests are aimed at building models to elucidate how large networks of interacting neurons produce cognitive behaviors. At the Allen Institute, Mihalas integrates anatomical and physiological connectivity data to generate models of visual perception in the mouse. To this end, he works to build a series of models of increasing complexity for both individual components, i.e., neurons, synapses, and microcircuits, as well as for large portions of the entire system. This series of models will be compared to the simplified theoretical predictions from statistical physics, information theory and computer vision. Mihalas received his Diploma in physics and M.S. in mathematics from West University of Timisoara in Romania. He received his Ph.D. in physics from the California Institute of Technology.
 
-Martin Lohmann (Post-Doc, Allen Institute)
+**Martin Lohmann**, 
+***Post-Doc, Allen Institute***
 
-Akwasi Akwaboah (PhD Student, Johns Hopkins University)
+![Akwasi Akwaboah](/assets/img/Akwasi_Akwaboah.png)
+
+**[Akwasi Akwaboah](https://adakwaboah.github.io)** <br>
+***PhD Student, Johns Hopkins University***
+
+Akwasi is a Ph.D. student at the Computational Sensory-Motor Systems (CSMS) Lab, Department of Electrical and Computer Engineering, Johns Hopkins University (JHU). His current research spans the spectrum of neuromorphic circuits & systems that promise “greener” Artificial Intelligence and neural interfacing electronics that hold implications for neurorehabilation as well as bidirectional communication between digital and biological (neural tissue) computers. He is advised by Dr. Ralph Etienne-Cummings. Prior to joining the CSMS Lab in 2020, He worked as a research intern at the Dr. James Weiland’s BioElectronic Vision Lab, University of Michigan. There, He collaborated on a number of projects in the areas of retinal prostheses, optimization for closed-loop neurostimulation and calcium imaging. In Summer 2022, He received the MSE in Electrical Engineering from the Johns Hopkins University en route the Ph.D. He also received an MS in Electronics Engineering from Norfolk State University(NSU) in 2020. At NSU, His master’s thesis focused on the formulation of heuristically optimized computational model of a stem cell-derived cardiomyocyte with implications in cardiac safety pharmacology. I hold a BSc. Biomedical Engineering (First Class Honors) from the Kwame Nkrumah University of Science and Technology (KNUST), Ghana which I received in 2017.
 
 
 [back](./)
