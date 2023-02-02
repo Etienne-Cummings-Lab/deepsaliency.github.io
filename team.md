@@ -9,20 +9,8 @@ layout: default
 ![Ralph Etienne-Cummings](/assets/img/etienne-cummings-ralph-300x300.png)<br>
 **[Ralph Etienne-Cummings](https://engineering.jhu.edu/faculty/ralph-etienne-cummings/)** <br>
 ***PI, Johns Hopkins University*** <br>
-Ralph Etienne-Cummings, an IEEE, AIMBE and ASI Fellow, received his B. Sc. in physics,
-1988, from Lincoln University, Pennsylvania.  He completed his M.S.E.E (&#39;91). and Ph.D. (&#39;94) in
-electrical engineering at the University of Pennsylvania.  Dr. Etienne-Cummings is the Vice-
-Provost for Faculty Affairs, previous (7/2014 – 7/2020) Chairman of Department of Electrical
-and Computer Engineering and the Julian S. Smith Professor of Electrical Engineering at Johns
-Hopkins University (JHU).  He was the founding Director of the Institute of Neuromorphic
-Engineering. He has served as Chairman of various IEEE Circuits and Systems (CAS)
-Technical Committees and was elected as a member of CAS Board of Governors.  He also
-serves on numerous editorial boards and was the Deputy Editor in Chief for the IEEE Transactions on Biomedical Circuits and Systems.  He is the recipient of the NSF’s Career andOffice of Naval Research Young Investigator Program Awards, among many other recognition. 
-He was a Visiting African Fellow at U. Cape Town, Fulbright Fellowship Grantee, Eminent Visiting Scholar at U. Western Sydney and has also won numerous publication and research awards.  He was also recognized as a “ScienceMaker”, an African American history archive and
-for the “Indispensable Roles of African Americans at JHU” exhibit. In 2021 was elected to the
-Johns Hopkins Homewood Academic Council, which is the highest body responsible for
-maintain excellence in research, teaching and service at the University. He has published
-nearly 400 peer reviewed article, books/chapters and patents/applications on his work.
+Ralph Etienne-Cummings, an IEEE, AIMBE and ASI Fellow, received his B. Sc. in physics, 1988, from Lincoln University, Pennsylvania.  He completed his M.S.E.E (&#39;91). and Ph.D. (&#39;94) in electrical engineering at the University of Pennsylvania.  Dr. Etienne-Cummings is the Vice-Provost for Faculty Affairs, previous (7/2014 – 7/2020) Chairman of Department of Electrical and Computer Engineering and the Julian S. Smith Professor of Electrical Engineering at Johns Hopkins University (JHU).  He was the founding Director of the Institute of Neuromorphic Engineering. He has served as Chairman of various IEEE Circuits and Systems (CAS)
+Technical Committees and was elected as a member of CAS Board of Governors.  He also serves on numerous editorial boards and was the Deputy Editor in Chief for the IEEE Transactions on Biomedical Circuits and Systems.  He is the recipient of the NSF’s Career and Office of Naval Research Young Investigator Program Awards, among many other recognition.  He was a Visiting African Fellow at U. Cape Town, Fulbright Fellowship Grantee, Eminent Visiting Scholar at U. Western Sydney and has also won numerous publication and research awards.  He was also recognized as a “ScienceMaker”, an African American history archive and for the “Indispensable Roles of African Americans at JHU” exhibit. In 2021 was elected to the Johns Hopkins Homewood Academic Council, which is the highest body responsible for maintain excellence in research, teaching and service at the University. He has published nearly 400 peer reviewed article, books/chapters and patents/applications on his work.
 
 
 ![Andreas Andreou](/assets/img/andreas-andreou-sq-300x300.png)<br>
