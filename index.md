@@ -12,7 +12,7 @@ The object of this project is to use the biologically plausible [proto-object sa
 
 <!-- <img src="./assets/img/BRAID_Aims.png"/> -->
 ![Aims](/assets/img/BRAID_aims2.png) <br>
-<p style="text-align: center;"> <em>Preliminary Results</em> </p>
+<!-- <p style="text-align: center;"> <em>Preliminary Results</em> </p> -->
 <!-- *Preliminary Results* -->
 
 **Project Abstract** <br>
