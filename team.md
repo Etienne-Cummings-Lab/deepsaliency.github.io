@@ -31,12 +31,13 @@ An IEEE Fellow, Andreou has secondary appointments in the Department of Computer
 
 ![Ernst Niebur](/assets/img/Ernst.png)
 
-**Ernst Niebur**, <br>
-***Co-PI, Johns Hopkins University**
+**[Ernst Niebur]()**, <br>
+***Co-PI, Johns Hopkins University***
 
 Dr. Ernst Niebur is a professor of neuroscience at the Johns Hopkins University School of Medicine, and a professor of pscychological and brain sciences at the Johns Hopkins Krieger School of Arts and Sciences. His research examines neuronal function at the system level focusing particularly on a function known as selective attention, which is the capability of humans and higher animals to scan sensory input for the most important information and to discard other non-essential information.
 He received his BSc and MSc from the University of Dortmund in West Germany. He was awarded his PhD at Universite de Lausanne in Switzerland. He also received a certificate in Artificial Intelligence from the Swiss Federal Institute of Technology (EPFL).
 Dr. Niebur has authored or co-authored more than 100 peer-reviewed publications and his work has been cited more than 20,000 times.
+In the Computational Neuroscience Laboratory, Ernst and his team construct quantitative models of biological nervous systems which are firmly based on their neurophysiology, neuroanatomy and behavior, and which are developed in close interaction with experimentalists. The main interest is neuronal function as the system level, reflecting the interaction of subsystems to generate useful behavior. Modeling is particularly important for understanding this and other system level functions since it required the interaction of several pathways and neural functions. One of the functions studied is selective attention, that is the capability of higher animals to scan sensory input for the most important information and to discard all other. Models of the neuronal basis of visual selective attention are constructed by simulating them on digital computers and comparing the results with date obtained from the visual and somatosensory systems of primates. His group pays particular attention to the study of mechanisms involving implementation of neural mechanisms which make use of the temporal structure of neuronal firing, rather than just the average firing rate.
 
 ![Stefan Mihalas](/assets/img/stefan_mihalas_148x148.png)
 
