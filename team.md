@@ -9,8 +9,7 @@ layout: default
 ![Ralph Etienne-Cummings](/assets/img/etienne-cummings-ralph-300x300.png)
 
 **[Ralph Etienne-Cummings](https://engineering.jhu.edu/faculty/ralph-etienne-cummings/)** <br>
-***PI, Johns Hopkins University***
-
+***PI, Johns Hopkins University*** <br>
 Ralph Etienne-Cummings is currently a Julian S. Smith Professor of Electrical & Computer Engineering at Johns Hopkins University (JHU). A pioneer for the past three decades in mobile robotics and legged locomotion, his innovations have the potential to produce computers that can perform recognition tasks as effortlessly and efficiently as humans. He has developed prosthetics that can seamlessly interface with the human body to restore functionality after injury or to overcome disease. Etienne-Cummings is the Julian S. Smith Professor of electrical and computer engineering and is the vice provost for faculty affairs at Johns Hopkins University. He holds a secondary appointment in computer science. He previously served on JHU’s Homewood Academic Council and is the former chair of the department of electrical and computer engineering.
 Etienne-Cummings’ research includes developing systems and algorithms for biologically inspired and low-power processing, biomorphic robots, closed-loop neural prosthetics, and computer integrated surgical systems and technologies. His contributions to the field are numerous, including helping to develop the first large-scale, neural computer–implemented using very-large-scale integration (VLSI) chips (integrated circuit of, potentially, millions of transistors on a single chip) as a PhD student to publishing the first paper on pulse-based, inter-pixel time of travel motion chip, which was based on the fly’s motion detection. After expanding this research into silicon retinas, Etienne-Cummings worked with the U.S. Air Force Office of Scientific Research and the JHU Applied Physics Lab to study how these chips guide micro, unmanned aerial vehicles. His research lab is the Computational Sensory Motor Systems Laboratory.
 Etienne-Cummings’ recent work has advanced the understanding of how to interface electronics with the nervous system and how to use biological signals to control biomorphic robots. His demonstration of in vitro control of the spinal circuits responsible for locomotion in lamprey and on a cat’s hind limb were the first examples of artificially generating signals to change the cycle-by-cycle behavior of segmental CPG networks in the spinal cord. Currently, he is working on an implantable device that will perform intra-spinal-micro-stimulation to mitigate spinal cord injuries; an integrated, wireless wearable physiological sensor to track the health of cardiac patients after admission; and ultrasonic imaging systems and actuated catheters for infertility treatment, among other projects.
@@ -23,17 +22,14 @@ He received his BSc in Physics (1988) from Lincoln University and his MSEE (1990
 ![Andreas Andreou](/assets/img/andreas-andreou-sq-300x300.png)
 
 **[Andreas Andreou](https://engineering.jhu.edu/ece/faculty/andreas-andreou/)**, <br>
-***Co-PI, Johns Hopkins University***
-
+***Co-PI, Johns Hopkins University*** <br>
 Andreas Andreou, a professor of electrical and computer engineering, is the co-founder of the Johns Hopkins University Center for Language and Speech Processing. Research in the Andreou lab is aimed at brain-inspired microsystems for sensory information and human language processing. Notable microsystems achievements over the last 25 years include a contrast sensitive silicon retina, the first CMOS polarization-sensitive imager, silicon rods in standard foundry CMOS for single-photon detection, and a large scale mixed analog/digital associative processor for character recognition. Significant algorithmic research contributions in pattern analysis and machine intelligence include the vocal tract normalization technique for speech recognition and heteroscedastic linear discriminant analysis, a derivation and generalization of Fisher discriminants in the maximum likelihood framework.
-
 An IEEE Fellow, Andreou has secondary appointments in the Department of Computer Science and the Whitaker Biomedical Engineering Institute.
 
 ![Ernst Niebur](/assets/img/Ernst.png)
 
 **[Ernst Niebur]()**, <br>
-***Co-PI, Johns Hopkins University***
-
+***Co-PI, Johns Hopkins University***<br>
 Dr. Ernst Niebur is a professor of neuroscience at the Johns Hopkins University School of Medicine, and a professor of pscychological and brain sciences at the Johns Hopkins Krieger School of Arts and Sciences. His research examines neuronal function at the system level focusing particularly on a function known as selective attention, which is the capability of humans and higher animals to scan sensory input for the most important information and to discard other non-essential information.
 He received his BSc and MSc from the University of Dortmund in West Germany. He was awarded his PhD at Universite de Lausanne in Switzerland. He also received a certificate in Artificial Intelligence from the Swiss Federal Institute of Technology (EPFL).
 Dr. Niebur has authored or co-authored more than 100 peer-reviewed publications and his work has been cited more than 20,000 times.
@@ -42,21 +38,19 @@ In the Computational Neuroscience Laboratory, Ernst and his team construct quant
 ![Stefan Mihalas](/assets/img/stefan_mihalas_148x148.png)
 
 **[Stefan Mihalas](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/stefan-mihalas/)**, <br>
-***Co-PI, The Allen Institute***
-
+***Co-PI, The Allen Institute***<br>
 Stefan Mihalas joined the Allen Institute in 2011 from Johns Hopkins University, where he was a postdoctoral fellow in neuroscience and subsequently an associate research scientist. As a computational neuroscientist, Mihalas has worked on models of both molecular and systems neuroscience including nervous system development, synaptic plasticity, minimalistic spiking neuron models, self-organized criticality, visual attention and figure ground segregation. His current research interests are aimed at building models to elucidate how large networks of interacting neurons produce cognitive behaviors. At the Allen Institute, Mihalas integrates anatomical and physiological connectivity data to generate models of visual perception in the mouse. To this end, he works to build a series of models of increasing complexity for both individual components, i.e., neurons, synapses, and microcircuits, as well as for large portions of the entire system. This series of models will be compared to the simplified theoretical predictions from statistical physics, information theory and computer vision. Mihalas received his Diploma in physics and M.S. in mathematics from West University of Timisoara in Romania. He received his Ph.D. in physics from the California Institute of Technology.
 
 
 ![Martin Lohmann](/assets/img/placeholder.png) 
 
 **Martin Lohmann**, <br>
-***Post-Doc, Allen Institute***
+***Post-Doc, Allen Institute***<br>
 
 ![Akwasi Akwaboah](/assets/img/Akwasi_Akwaboah_320x320.png)
 
 **[Akwasi Akwaboah](https://adakwaboah.github.io)** <br>
-***PhD Student, Johns Hopkins University***
-
+***PhD Student, Johns Hopkins University*** <br>
 Akwasi is a Ph.D. student at the Computational Sensory-Motor Systems (CSMS) Lab, Department of Electrical and Computer Engineering, Johns Hopkins University (JHU). His current research spans the spectrum of neuromorphic circuits & systems that promise “greener” Artificial Intelligence and neural interfacing electronics that hold implications for neurorehabilation as well as bidirectional communication between digital and biological (neural tissue) computers. He is advised by Dr. Ralph Etienne-Cummings. Prior to joining the CSMS Lab in 2020, he worked as a research intern at the Dr. James Weiland’s BioElectronic Vision Lab, University of Michigan. There, He collaborated on a number of projects in the areas of retinal prostheses, optimization for closed-loop neurostimulation and calcium imaging. In Summer 2022, he received the MSE in Electrical Engineering from the Johns Hopkins University en route the Ph.D. He also received an MS in Electronics Engineering from Norfolk State University(NSU) in 2020. At NSU, his master’s thesis focused on the formulation of heuristically optimized computational model of a stem cell-derived cardiomyocyte with implications in cardiac safety pharmacology. He holds a BSc. Biomedical Engineering (First Class Honors) from the Kwame Nkrumah University of Science and Technology (KNUST), Ghana which he received in 2017. 
 
 
