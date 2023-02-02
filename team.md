@@ -22,14 +22,21 @@ He received his BSc in Physics (1988) from Lincoln University and his MSEE (1990
 
 ![Andreas Andreou](/assets/img/andreas-andreou-sq-300x300.png)
 
-**[Andreas Andreou](https://engineering.jhu.edu/ece/faculty/andreas-andreou/)**,
+**[Andreas Andreou](https://engineering.jhu.edu/ece/faculty/andreas-andreou/)**, <br>
 ***Co-PI, Johns Hopkins University***
 
 Andreas Andreou, a professor of electrical and computer engineering, is the co-founder of the Johns Hopkins University Center for Language and Speech Processing. Research in the Andreou lab is aimed at brain-inspired microsystems for sensory information and human language processing. Notable microsystems achievements over the last 25 years include a contrast sensitive silicon retina, the first CMOS polarization-sensitive imager, silicon rods in standard foundry CMOS for single-photon detection, and a large scale mixed analog/digital associative processor for character recognition. Significant algorithmic research contributions in pattern analysis and machine intelligence include the vocal tract normalization technique for speech recognition and heteroscedastic linear discriminant analysis, a derivation and generalization of Fisher discriminants in the maximum likelihood framework.
 
 An IEEE Fellow, Andreou has secondary appointments in the Department of Computer Science and the Whitaker Biomedical Engineering Institute.
 
-Ernst Niebur (Co-PI, Johns Hopkins University)
+![Ernst Niebur](/assets/img/Ernst.png)
+
+**Ernst Niebur**, <br>
+***Co-PI, Johns Hopkins University**
+
+Dr. Ernst Niebur is a professor of neuroscience at the Johns Hopkins University School of Medicine, and a professor of pscychological and brain sciences at the Johns Hopkins Krieger School of Arts and Sciences. His research examines neuronal function at the system level focusing particularly on a function known as selective attention, which is the capability of humans and higher animals to scan sensory input for the most important information and to discard other non-essential information.
+He received his BSc and MSc from the University of Dortmund in West Germany. He was awarded his PhD at Universite de Lausanne in Switzerland. He also received a certificate in Artificial Intelligence from the Swiss Federal Institute of Technology (EPFL).
+Dr. Niebur has authored or co-authored more than 100 peer-reviewed publications and his work has been cited more than 20,000 times.
 
 ![Stefan Mihalas](/assets/img/stefan_mihalas_148x148.png)
 
