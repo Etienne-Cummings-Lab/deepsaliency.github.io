@@ -7,8 +7,7 @@ layout: default
 The object of this project is to use the biologically plausible [proto-object saliency](https://doi.org/10.1016/j.visres.2013.10.005) for sparsifying connectivity in Deep Neural Networks to ultimately achieve parsimonious yet efficient training and inference compute.
 
 <!-- <a href="url", style>link text</a> -->
-
-<p style="text-align: center;"> <a href="./team.html">[See the Team]</a> </p>
+<p style="text-align: center;"> <a href="./team.html">[See the Team]</a>, [Related Works] </p>
 
 <!-- <img src="./assets/img/BRAID_Aims.png"/> -->
 ![Aims](/assets/img/BRAID_aims2.png) <br>
