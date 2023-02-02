@@ -7,6 +7,7 @@ layout: default
 [back](./)
 
 ![Ralph Etienne-Cummings](/assets/img/etienne-cummings-ralph-300x300.png)
+
 **[Ralph Etienne-Cummings](https://engineering.jhu.edu/faculty/ralph-etienne-cummings/)** <br>
 ***PI, Johns Hopkins University***
 
