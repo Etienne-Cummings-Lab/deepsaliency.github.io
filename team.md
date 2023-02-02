@@ -49,7 +49,7 @@ Stefan Mihalas joined the Allen Institute in 2011 from Johns Hopkins University,
 **Martin Lohmann**, 
 ***Post-Doc, Allen Institute***
 
-![Akwasi Akwaboah](/assets/img/Akwasi_Akwaboah.png)
+![Akwasi Akwaboah](/assets/img/Akwasi_Akwaboah_320x320.png)
 
 **[Akwasi Akwaboah](https://adakwaboah.github.io)** <br>
 ***PhD Student, Johns Hopkins University***
