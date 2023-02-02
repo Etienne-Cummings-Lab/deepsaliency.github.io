@@ -20,8 +20,14 @@ He has won numerous awards including being named a Fellow of AIMBE (2021) and re
 He has served on various technical committees including, at present, the IEEE Biomedical Engineering Awards Committee, as well as other prior IEEE committees, the awards committee of the ECEDHA, and the NSF Workshop on the Science of Learning. He lends his expertise to numerous editorial boards, including the Journal of Low-Power Electronics and Applications and Frontiers in Neuromorphic Engineering; was deputy editor-in-chief for the IEEE Transactions on Biomedical Circuits and Systems from 2011-2016, and is a reviewer for numerous organizations.
 He received his BSc in Physics (1988) from Lincoln University and his MSEE (1990) and PhD (1994) in electrical engineering from the University of Pennsylvania.
 
+![Andreas Andreou](/assets/img/andreas-andreou-sq-300x300.png)
 
-Andreas Andreou (Co-PI, Johns Hopkins University)
+**[Andreas Andreou](https://engineering.jhu.edu/ece/faculty/andreas-andreou/)**,
+***Co-PI, Johns Hopkins University***
+
+Andreas Andreou, a professor of electrical and computer engineering, is the co-founder of the Johns Hopkins University Center for Language and Speech Processing. Research in the Andreou lab is aimed at brain-inspired microsystems for sensory information and human language processing. Notable microsystems achievements over the last 25 years include a contrast sensitive silicon retina, the first CMOS polarization-sensitive imager, silicon rods in standard foundry CMOS for single-photon detection, and a large scale mixed analog/digital associative processor for character recognition. Significant algorithmic research contributions in pattern analysis and machine intelligence include the vocal tract normalization technique for speech recognition and heteroscedastic linear discriminant analysis, a derivation and generalization of Fisher discriminants in the maximum likelihood framework.
+
+An IEEE Fellow, Andreou has secondary appointments in the Department of Computer Science and the Whitaker Biomedical Engineering Institute.
 
 Ernst Niebur (Co-PI, Johns Hopkins University)
 
