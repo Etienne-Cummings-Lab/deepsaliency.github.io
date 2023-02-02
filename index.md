@@ -12,7 +12,8 @@ The object of this project is to use the biologically plausible [proto-object sa
 
 <!-- <img src="./assets/img/BRAID_Aims.png"/> -->
 ![Aims](/assets/img/BRAID_aims2.png) <br>
-*Preliminary Results*
+<p style="text-align: center;"> <em>Preliminary Results</em> </p>
+<!-- *Preliminary Results* -->
 
 **Project Abstract** <br>
 Deep learning has achieved impressive performance in many tasks, which is driven by the capacity for backpropagation to “assign credit” to a vast array of parameters. Typical networks have immensely complex computational graphs, with many options to assign credit for every computation. A large number of options comes with the benefits of being very flexible in learning, but also with costs of large energy consumption and many needed examples for learning. A selection of important (salient) features will cause inductive biases in learning, but such biases, when appropriately conditioned, can be optimally selected, as is done in biology via evolution or development. For our project, the selection mechanism will be inspired by biology (Aims 1&2) or learned (Aims 3&4), and will be instantiated in software and hardware.
